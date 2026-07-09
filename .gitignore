@@ -1,0 +1,23 @@
+# Secrets / credentials
+.env
+.env.*
+*.key
+*credentials*
+*secrets*
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (if any dashboard/starter is added later)
+node_modules/
+dist/
+build/
+
+# Python (if any scripts are added later)
+__pycache__/
+*.pyc
+.venv/
+venv/
