@@ -2,6 +2,8 @@
 
 **A working system for running Marketing Operations with AI agents and automation — not a slide deck about it.**
 
+> 🚧 **This repo is a work in progress, built and updated in public.** The framework, playbooks, and architecture are in place; case studies are being filled in with real metrics and artifacts as each system matures. I'd rather share early and honestly than wait for a "finished" version that never ships — happy to walk through any section live.
+
 Built and operated by [Sharath Chandra Chaganti](https://www.linkedin.com/) — Marketing Operations Manager, 15+ years in MarTech / Lead Ops / RevOps (Marketo, HubSpot, Salesforce, SFMC, MS Dynamics 365, Power BI) — now applying AI agents (Claude, MCP, n8n, Make) to the operational layer of B2B marketing.
 
 This repo is the evidence behind that claim: real automations, real prompts, real architecture, documented as case studies.
@@ -54,12 +56,12 @@ marketing-ops-ai-os/
 
 ## Case Studies
 
-| Project | Problem | Stack | Status |
+| Project | One-liner | Stack | Status |
 |---|---|---|---|
-| [Thought Orchestrator](case-studies/thought-orchestrator/) | *(fill in one-line problem statement)* | Claude, n8n | *(draft / live)* |
-| [n8n Content Automation Engine](case-studies/n8n-content-automation-engine/) | *(fill in)* | n8n, Claude API | *(draft / live)* |
-| [Claude + HubSpot Lead Enrichment](case-studies/claude-hubspot-lead-enrichment/) | *(fill in)* | Claude API, HubSpot API | *(draft / live)* |
-| [MCP Server Integration](case-studies/mcp-server-integration/) | *(fill in)* | MCP, Claude, CRM/MAP tools | *(draft / live)* |
+| [Thought Orchestrator](case-studies/thought-orchestrator/) | Claude API–powered browser tool for multi-step marketing ops reasoning | Claude, n8n | 🚧 In progress |
+| [n8n Content Automation Engine](case-studies/n8n-content-automation-engine/) | n8n pipeline automating repetitive content production steps with Claude | n8n, Claude API | 🚧 In progress |
+| [Claude + HubSpot Lead Enrichment](case-studies/claude-hubspot-lead-enrichment/) | Claude agent enriching/summarizing HubSpot records via the official connector | Claude API, HubSpot | 🚧 In progress |
+| [MCP Server Integration](case-studies/mcp-server-integration/) | MCP-based integration for programmatic Claude ↔ CRM/MarTech data access | MCP, Claude | 🚧 In progress |
 
 ---
 
